@@ -1,0 +1,13 @@
+version: '3.4'
+
+networks:
+  backend:
+
+
+services:
+      
+  customerapi.service:
+    image: ${DOCKER_REGISTRY-}customerapiservice
+    build:
+      context: .
+      dockerfile: CustomerAPI.service/Dockerfile

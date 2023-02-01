@@ -1,0 +1,10 @@
+C:\Users\reemachouhan\source\repos\MicroserviceAssignment\SharedModels\bin\Debug\netcoreapp3.1\SharedModels.deps.json
+C:\Users\reemachouhan\source\repos\MicroserviceAssignment\SharedModels\bin\Debug\netcoreapp3.1\SharedModels.dll
+C:\Users\reemachouhan\source\repos\MicroserviceAssignment\SharedModels\bin\Debug\netcoreapp3.1\SharedModels.pdb
+C:\Users\reemachouhan\source\repos\MicroserviceAssignment\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.csproj.AssemblyReference.cache
+C:\Users\reemachouhan\source\repos\MicroserviceAssignment\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reemachouhan\source\repos\MicroserviceAssignment\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.AssemblyInfoInputs.cache
+C:\Users\reemachouhan\source\repos\MicroserviceAssignment\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.AssemblyInfo.cs
+C:\Users\reemachouhan\source\repos\MicroserviceAssignment\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.csproj.CoreCompileInputs.cache
+C:\Users\reemachouhan\source\repos\MicroserviceAssignment\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.dll
+C:\Users\reemachouhan\source\repos\MicroserviceAssignment\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.pdb
